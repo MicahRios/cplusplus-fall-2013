@@ -26,7 +26,7 @@ int main()
 	double miles_per_gallon;
 
 	// Prompt for user input.
-	/*cout << "Enter the miles driven: "; 
+	cout << "Enter the miles driven: "; 
 	cin >> miles_driven;
 	cout << endl << "Enter the gallons of gas used: ";
     cin >> gallons_used;
@@ -39,27 +39,6 @@ int main()
 	// Set the number of decimal places to round to, and display calculated MPG.
 	cout << fixed << setprecision(1) << "Calculated Miles Per Gallon: " << miles_per_gallon << endl;
 	cout << endl;
-	*/
-
-	// ***** Testing
-
-	int amt = 0;
-
-	cout << "amt = amt + 1: ";
-	amt = amt + 1;
-	cout << amt;
-	cout << endl << "amt ++ :";
-	amt ++;
-	cout << amt;
-	cout << endl << "++amt :";
-	++amt ;
-	cout << amt;
-
-
-	
-
-
-	// End Testing *****
 
 	// Prompt for user action to exit program.
 	cout << "Press any key to quit.";
