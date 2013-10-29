@@ -1,0 +1,14 @@
+﻿Build started 10/29/2013 9:56:03 AM.
+     1>Project "F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Exam2B\Exam2B\Exam2B.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\fvtc - fall 2013\80920 programming c plus plus\github\cplusplus-fall-2013\exam2b\exam2b\main.cpp(94): warning C4244: 'argument' : conversion from 'std::numeric_limits<double>::_Ty' to 'std::streamsize', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Exam2B\Debug\Exam2B.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Exam2B\Debug\Exam2B.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Exam2B\Debug\Exam2B.lib" /MACHINE:X86 Debug\main.obj
+         Exam2B.vcxproj -> F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Exam2B\Debug\Exam2B.exe
+     1>Done Building Project "F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Exam2B\Exam2B\Exam2B.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.65
