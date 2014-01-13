@@ -1,4 +1,4 @@
-﻿Build started 10/26/2013 11:06:05 AM.
+﻿Build started 1/13/2014 2:21:51 PM.
      1>Project "F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Assignment07_Salary\Assignment07_Salary\Assignment07_Salary.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
@@ -6,9 +6,10 @@
      1>f:\fvtc - fall 2013\80920 programming c plus plus\github\cplusplus-fall-2013\assignment07_salary\assignment07_salary\main.cpp(190): warning C4244: 'argument' : conversion from 'std::numeric_limits<double>::_Ty' to 'std::streamsize', possible loss of data
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Assignment07_Salary\Debug\Assignment07_Salary.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Assignment07_Salary\Debug\Assignment07_Salary.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Assignment07_Salary\Debug\Assignment07_Salary.lib" /MACHINE:X86 Debug\main.obj
+         LINK : F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Assignment07_Salary\Debug\Assignment07_Salary.exe not found or not built by the last incremental link; performing full link
          Assignment07_Salary.vcxproj -> F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Assignment07_Salary\Debug\Assignment07_Salary.exe
      1>Done Building Project "F:\FVTC - Fall 2013\80920 Programming C Plus Plus\GitHub\cplusplus-fall-2013\Assignment07_Salary\Assignment07_Salary\Assignment07_Salary.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:06.74
+Time Elapsed 00:00:07.16
